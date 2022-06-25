@@ -1,0 +1,6 @@
+Nama : Diotama Saputra
+NPM  : 19316034
+No. Absen : 29
+Nama Tempat Wisata :Waterpark Citra Garden
+Link Akses website :https://diotama.github.io/dio/
+Link Source Code   :https://github.com/Diotama/dio.git
